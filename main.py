@@ -49,4 +49,3 @@
 
 # sets
 
-print("Hello World")
